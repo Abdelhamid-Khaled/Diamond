@@ -1,2 +1,6 @@
 # Diamond
-D
+In this machine learning project, we will use a dataset containing various attributes of diamonds, such as carat, cut, color, and width, to build a model that can predict the price of diamonds. The project is based on supervised learning, which means that we will be using a labeled dataset, where the correct output (i.e., the diamond price) is provided for each example in the dataset.
+To build the model, we will be using a linear statistical model, which is a type of model that makes predictions based on the linear relationship between the input features and the output. This means that the model will try to fit a line (or a plane, in higher dimensions) to the data, and use this line to make predictions about the diamond prices.
+After building the model, we will proceed to check the assumptions of linear regression. These assumptions are necessary for the model to be valid, and they include assumptions about the linearity of the relationship between the input and output, the homoscedasticity of the errors (i.e., the constant variance of the errors), and the normality of the errors. Checking these assumptions will allow us to ensure that the model is reliable and can be used to make accurate predictions.
+Finally, we will use the model to make predictions on new, unseen data, and check the accuracy of these predictions. This will allow us to determine how well the model is able to generalize to new data, and whether it is a good fit for the problem at hand.
+
